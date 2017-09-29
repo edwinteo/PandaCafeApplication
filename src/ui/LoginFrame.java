@@ -1,6 +1,6 @@
 /*
 Author : Teo Jia Han 
-Class  : DC02 D2
+Class  : DC02 D2 
 */
 
 
@@ -61,7 +61,7 @@ public class LoginFrame extends JFrame {
         Date m1 = new Date(1992, 10, 02);
         Date m2 = new Date(1996, 10, 02);
      
-        //setlayout for frame
+        //setlayout for frame.
         setLayout(new BorderLayout());
         //panels
         p1 = new JPanel(new BorderLayout());
