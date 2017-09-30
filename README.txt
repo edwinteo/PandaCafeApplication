@@ -19,6 +19,7 @@ Main Functions
   Food
   Order
   Member 
-*Create receipt *Search receipt
+*Create receipt 
+*Search receipt
 
 Application is stop being developed . Bug still remain in the application.
